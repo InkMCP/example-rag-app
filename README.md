@@ -41,19 +41,19 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Deploy with Ink
 
-Connect the [Ink MCP server](https://docs.ml.ink/quick-start) to your AI agent and prompt:
+Connect the [Ink MCP server](https://docs.deployink.com/quick-start) to your AI agent and prompt:
 
 > Deploy the example-rag-app repo from github. Set the OPENAI_API_KEY environment variable.
 
 ## Tutorial
 
-Full step-by-step tutorial: [docs.ml.ink/examples/ai-and-mcp/rag-app](https://docs.ml.ink/examples/ai-and-mcp/rag-app)
+Full step-by-step tutorial: [docs.deployink.com/examples/ai-and-mcp/rag-app](https://docs.deployink.com/examples/ai-and-mcp/rag-app)
 
 ## About Ink
 
-[Ink](https://ml.ink) is a deployment platform built for AI agents. Connect the Ink MCP server to any AI coding agent and deploy applications, manage domains, databases, and infrastructure — all through natural language.
+[Ink](https://deployink.com) is a deployment platform built for AI agents. Connect the Ink MCP server to any AI coding agent and deploy applications, manage domains, databases, and infrastructure — all through natural language.
 
-- **Website**: [ml.ink](https://ml.ink)
-- **Documentation**: [docs.ml.ink](https://docs.ml.ink)
-- **Quick Start**: [docs.ml.ink/quick-start](https://docs.ml.ink/quick-start)
-- **Examples**: [docs.ml.ink/examples](https://docs.ml.ink/examples)
+- **Website**: [deployink.com](https://deployink.com)
+- **Documentation**: [docs.deployink.com](https://docs.deployink.com)
+- **Quick Start**: [docs.deployink.com/quick-start](https://docs.deployink.com/quick-start)
+- **Examples**: [docs.deployink.com/examples](https://docs.deployink.com/examples)
